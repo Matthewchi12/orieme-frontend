@@ -1,4 +1,4 @@
-export default function App() {
+ export default function App() {
   return (
     <div style={{
       background: "black",
@@ -9,10 +9,10 @@ export default function App() {
       alignItems: "center",
       flexDirection: "column"
     }}>
-      <h1 style={{ color: "#D4AF37" }}>
-        Orieme Fashion Store
+      <h1 style={{ color: "#D4AF37", fontSize: "40px" }}>
+        ORIEME MATTHEW FASHION STORE
       </h1>
-      <p>Frontend is working 🚀</p>
+      <p>Your brand is now live 🚀</p>
     </div>
   )
 }
